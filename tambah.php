@@ -41,4 +41,5 @@
  $dataKelas = $mysqli->query($sql) or die ($mysqli->error);
 
  include 'views/v_tambah.php';
+ echo "File berfungsi untuk menambahkan";
 ?>

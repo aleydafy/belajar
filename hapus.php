@@ -13,5 +13,6 @@
  		echo 0;
  	}
  }
+ echo "File ini berfungsi untuk menghapus";
  ?>
 
